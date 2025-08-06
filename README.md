@@ -48,7 +48,8 @@
 
 ###### <br /> oh- i almost forgot to mention, this is my pc with its components if u want to take inspiration from it, feel free to do so, but please dont copy and purchase it exactly as is, each system is unique, and its important to choose components that suit your needs, also, keep in mind that my pc might not be optimized for running games, thx i appreciate ur understanding UwU 💖
 
-[![Intel](https://img.shields.io/badge/Intel-Core_i5_2400-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/sku/52207/intel-core-i52400-processor-6m-cache-up-to-3-40-ghz/specifications.html)
-[![Nvidia](https://img.shields.io/badge/NVIDIA-GT710-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.galax.com/pt/graphics-card/galax-geforce-gt-710-1gb.html)
-[![RAM](https://img.shields.io/badge/RAM-DDR3%204GB-00C5AC?style=for-the-badge)]()
-[![HDD](https://img.shields.io/badge/HDD-500GB-00C5AC?style=for-the-badge)]()
+[![AMD](https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/apu/amd-ryzen-5-5600g)
+[![GPU](https://img.shields.io/badge/VEGA-Integrated_iGPU-FF4C4B?style=for-the-badge&logo=amd&logoColor=white)]()
+[![RAM](https://img.shields.io/badge/RAM-DDR4_24GB-00C5AC?style=for-the-badge)]()
+[![SSD](https://img.shields.io/badge/SSD-1TB-00C5AC?style=for-the-badge)]()
+[![Mobo](https://img.shields.io/badge/Motherboard-B450M_GAMING-8A2BE2?style=for-the-badge)](https://www.gigabyte.com/Motherboard/B450M-GAMING-rev-1x)
